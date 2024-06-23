@@ -13,4 +13,6 @@ Built with the Future in Mind:
 Powered by Google AR Core: This project leverages a robust platform for accurate environment mapping, ensuring a smooth and immersive AR experience.
 Open Source Collaboration: Dive into the code and contribute your ideas! This project welcomes contributions to push the boundaries of AR interior design.
 This isn't just furniture placement – it's a design playground!
-#Crews: Sooraj PK Hafis Shiyas CT Abhishek john 
+<br>
+
+#Crews:&nbsp; Sooraj PK  &nbsp;Hafis &nbsp; Shiyas CT &nbsp; Abhishek john 
