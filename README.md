@@ -1,4 +1,6 @@
 # interia
+![interia](https://github.com/user-attachments/assets/d32ee399-c8aa-4759-b0f5-10f45b33052c)
+
 Breathe Life into Your Design Dreams: AR Furniture Layout for Android
 Imagine transforming your living space with a flick of your wrist. This open-source Android project unlocks the power of Augmented Reality (AR) to revolutionize interior design. Ditch the tape measure and blurry mental images – visualize furniture in your real-world environment before you buy or rearrange.
 
